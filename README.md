@@ -29,7 +29,7 @@ Your app/assets/javascripts/application.js must appear like:
 ````
 //= require jquery
 //= require jquery_ujs
-//= require sticky-rails
+//= require jquery.sticky.js
 //= require_tree .
 ````
 
