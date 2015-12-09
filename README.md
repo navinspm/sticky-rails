@@ -1,6 +1,6 @@
-Stickyjs Rails Gem - 1.0.0
+Stickyjs Rails Gem - 1.0.3
 
-jQuery sticky 1.0.0 - http://stickyjs.com/
+jQuery sticky 1.0.3 - http://stickyjs.com/
 
 sticky-rails Author: Navin Kumar, Copyright 2014 MIT license
 
